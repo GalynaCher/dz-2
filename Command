@@ -1,0 +1,1 @@
+docker run --name dz-3 -p 4567:5432 -e POSTGRES_PASSWORD=pwddz3 -d postgres:13.3
